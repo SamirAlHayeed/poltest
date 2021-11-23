@@ -47,5 +47,4 @@ questions =  [
     {"id": 45, "question": "Multiculturalism is bad.", "effects": {"prog": -1}},
     {"id": 46, "question": "Discipline is the most important trait in a person..", "effects": {"prog": -0.5}}
     {"id": 47, "question": "Democracy is retarded.", "effects": {"prog": -1}}
-];  
--u
+];
