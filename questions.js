@@ -33,16 +33,18 @@ questions =  [
     {"id": 31, "question": "Homosexuals and transgenders should have equal adoption rights to everyone else.", "effects": {"prog": 1}},
     {"id": 32, "question": "All cultures and peoples are equal.", "effects": {"prog": 1}},
     {"id": 33, "question": "Nudism is perfectly natural and okay.", "effects": {"prog": 1}},
-    {"id": 34, "question": "Animals deserve certain universal rights.", "effects": {"prog": 1}},
+    {"id": 34, "question": "Animals deserve certain universal rights.", "effects": {"prog": 0.5}},
     {"id": 35, "question": "Gender is a social construct, not a natural state of affairs.", "effects": {"prog": 1}},
-    {"id": 36, "question": "A society shouldn't structure itself on tradition, and older values.", "effects": {"prog": 1}},
+    {"id": 36, "question": "There is nothing morally wrong with the consumption or creation of pornography depicting consensual adults.", "effects": {"prog": 0.5}},
     {"id": 37, "question": "Autonomy of body extends even to minors, the mentally ill, and serious criminals.", "effects": {"prog": 1}},
-    {"id": 38, "question": "Homosexuality is against my values.", "effects": {"prog": -1}},
-    {"id": 39, "question": "Same sex marriage should not be permitted.", "effects": {"prog": -1}},
-    {"id": 40, "question": "Drugs are harmful and immoral.", "effects": {"prog": -1}},
+    {"id": 38, "question": "Same sex marriage should be permitted.", "effects": {"prog": 1}},
+    {"id": 39, "question": "Homosexuality is against my values.", "effects": {"prog": -1}},
+    {"id": 40, "question": "Drugs are harmful and immoral.", "effects": {"prog": -0.5}},
     {"id": 41, "question": "The death penalty should exist for certain crimes.", "effects": {"prog": -1}},
     {"id": 42, "question": "It is important that borders exist, and that immigration should be regulated.", "effects": {"prog": -1}},
     {"id": 43, "question": "One cannot be moral without religion.", "effects": {"prog": -1}},
     {"id": 44, "question": "Parents should hold absolute power over their children, as they are older and more experienced.", "effects": {"prog": -1}},
-    {"id": 45, "question": "Multiculturalism is bad.", "effects": {"prog": -1}}
-];
+    {"id": 45, "question": "Multiculturalism is bad.", "effects": {"prog": -1}},
+    {"id": 46, "question": "Discipline is the most important trait in a person..", "effects": {"prog": -0.5}}
+    {"id": 47, "question": "Democracy is retarded.", "effects": {"prog": -1}}
+];  
